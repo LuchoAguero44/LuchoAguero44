@@ -6,8 +6,8 @@
   🌱 Lifelong learner creating with clarity, purpose, and a human touch
 </p>
 
-<div style="padding-top: 1000px;">
-  <img align="right" alt="GIF" height="200px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV5YmRsd3NkeGFsc282bzc0cXM5eWg2aDhyMnZydWZ3dDR0YjIzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div style="padding-top: 100px;">
+  <img align="right" alt="GIF" height="180px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazV5YmRsd3NkeGFsc282bzc0cXM5eWg2aDhyMnZydWZ3dDR0YjIzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 
